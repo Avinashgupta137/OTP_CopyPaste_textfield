@@ -1,0 +1,16 @@
+PODS:
+  - AEOTPTextField (1.2.6)
+
+DEPENDENCIES:
+  - AEOTPTextField
+
+SPEC REPOS:
+  trunk:
+    - AEOTPTextField
+
+SPEC CHECKSUMS:
+  AEOTPTextField: a275823fde05601c5da7f8fb66aaecb41289b370
+
+PODFILE CHECKSUM: fdea94fee068c9b2f49dd6c902fb5d76c25cefdd
+
+COCOAPODS: 1.11.3
